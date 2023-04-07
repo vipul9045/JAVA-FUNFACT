@@ -1,2 +1,2 @@
 # java-funfact
-here is the some basic problem of java
+WAP to print the day based on the number 
